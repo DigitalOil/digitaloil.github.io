@@ -1,0 +1,218 @@
+2015-2020
+​
+[(0,
+  '0.161*"collect" + 0.138*"web" + 0.096*"provider" + 0.061*"browser" + '
+  '0.057*"reproduce" + 0.049*"identify" + 0.033*"write" + 0.025*"office" + '
+  '0.024*"encourage" + 0.022*"operate"'),
+ (1,
+  '0.198*"commit" + 0.195*"version" + 0.191*"equal" + 0.060*"purpose" + '
+  '0.058*"include" + 0.049*"account" + 0.022*"process" + 0.020*"type" + '
+  '0.019*"read" + 0.019*"file"'),
+ (2,
+  '0.259*"official" + 0.220*"ensure" + 0.046*"contact" + 0.046*"website" + '
+  '0.026*"contribution" + 0.025*"institution" + 0.022*"decision" + '
+  '0.020*"datum" + 0.019*"require" + 0.018*"interaction"'),
+ (3,
+  '0.342*"government" + 0.147*"personal" + 0.128*"medium" + 0.042*"access" + '
+  '0.041*"provide" + 0.030*"communication" + 0.028*"adobe" + 0.021*"report" + '
+  '0.021*"public" + 0.018*"site"'),
+ (4,
+  '0.302*"respect" + 0.097*"visitor" + 0.073*"activity" + 0.055*"question" + '
+  '0.049*"policy" + 0.033*"device" + 0.026*"employment" + 0.024*"share" + '
+  '0.023*"post" + 0.022*"authority"'),
+ (5,
+  '0.335*"social" + 0.112*"comment" + 0.057*"commercial" + 0.056*"server" + '
+  '0.040*"notice" + 0.029*"development" + 0.026*"define" + 0.025*"evaluation" '
+  '+ 0.016*"refer" + 0.016*"determine"'),
+ (6,
+  '0.126*"platform" + 0.108*"term" + 0.100*"link" + 0.064*"subject" + '
+  '0.064*"service" + 0.050*"program" + 0.034*"standard" + 0.026*"form" + '
+  '0.025*"reproduction" + 0.025*"user"'),
+ (7,
+  '0.365*"language" + 0.081*"address" + 0.054*"responsible" + 0.053*"interact" '
+  '+ 0.053*"individual" + 0.025*"automatically" + 0.023*"network" + '
+  '0.021*"administration" + 0.018*"participate" + 0.017*"engage"'),
+ (8,
+  '0.293*"quality" + 0.095*"visit" + 0.081*"analytic" + 0.072*"party" + '
+  '0.042*"application" + 0.040*"material" + 0.040*"copyright" + 0.039*"store" '
+  '+ 0.028*"control" + 0.026*"download"')]
+
+Perplexity:  -8.036621848287195
+
+Coherence Score:  0.7935316465322793
+
+2010-2015
+[(0,
+  '0.143*"account" + 0.107*"datum" + 0.083*"policy" + 0.063*"company" + '
+  '0.052*"protect" + 0.049*"pay" + 0.041*"warranty" + 0.031*"express" + '
+  '0.030*"permit" + 0.029*"candidate"'),
+ (1,
+  '0.209*"term" + 0.112*"access" + 0.105*"include" + 0.065*"liability" + '
+  '0.042*"request" + 0.041*"sole" + 0.040*"collect" + 0.039*"charge" + '
+  '0.038*"address" + 0.033*"subject"'),
+ (2,
+  '0.129*"post" + 0.112*"receive" + 0.104*"link" + 0.085*"communication" + '
+  '0.063*"password" + 0.060*"submit" + 0.051*"control" + 0.048*"expressly" + '
+  '0.045*"performance" + 0.039*"person"'),
+ (3,
+  '0.095*"personal" + 0.050*"material" + 0.036*"process" + 0.027*"limit" + '
+  '0.027*"event" + 0.026*"property" + 0.023*"fee" + 0.020*"remove" + '
+  '0.020*"payment" + 0.020*"internet"'),
+ (4,
+  '0.233*"service" + 0.116*"user" + 0.108*"law" + 0.053*"contact" + '
+  '0.052*"reserve" + 0.046*"security" + 0.043*"message" + 0.037*"discretion" + '
+  '0.030*"form" + 0.028*"monitor"'),
+ (5,
+  '0.309*"party" + 0.064*"limitation" + 0.064*"hold" + 0.049*"change" + '
+  '0.042*"download" + 0.040*"respect" + 0.032*"file" + 0.032*"complete" + '
+  '0.031*"contain" + 0.027*"waiver"'),
+ (6,
+  '0.105*"right" + 0.085*"cookie" + 0.081*"purpose" + 0.072*"registration" + '
+  '0.061*"action" + 0.061*"arise" + 0.061*"applicable" + '
+  '0.047*"responsibility" + 0.044*"solely" + 0.042*"free"'),
+ (7,
+  '0.112*"claim" + 0.107*"responsible" + 0.094*"liable" + 0.075*"notice" + '
+  '0.062*"publish" + 0.058*"violate" + 0.048*"failure" + 0.046*"disclose" + '
+  '0.034*"risk" + 0.026*"site"'),
+ (8,
+  '0.104*"provide" + 0.084*"copyright" + 0.083*"damage" + 0.076*"employer" + '
+  '0.062*"legal" + 0.051*"register" + 0.034*"prior" + 0.034*"click" + '
+  '0.031*"delete" + 0.029*"confidentiality"')]
+
+Perplexity:  -12.264111262476527
+
+Coherence Score:  0.7768669736098963
+
+
+2005-2010
+​
+[(0,
+  '0.319*"party" + 0.072*"entity" + 0.068*"address" + 0.062*"work" + '
+  '0.058*"event" + 0.053*"property" + 0.046*"control" + 0.042*"infringe" + '
+  '0.039*"intellectual" + 0.038*"responsibility"'),
+ (1,
+  '0.102*"notice" + 0.087*"limit" + 0.074*"write" + 0.073*"locate" + '
+  '0.072*"feature" + 0.064*"action" + 0.057*"security" + 0.052*"license" + '
+  '0.047*"respect" + 0.038*"reserve"'),
+ (2,
+  '0.194*"applicable" + 0.107*"provide" + 0.082*"apply" + 0.058*"alert" + '
+  '0.056*"purpose" + 0.048*"business" + 0.037*"website" + 0.036*"create" + '
+  '0.035*"number" + 0.033*"search"'),
+ (3,
+  '0.454*"service" + 0.080*"receive" + 0.064*"permit" + 0.050*"submit" + '
+  '0.039*"claim" + 0.037*"terminate" + 0.023*"set" + 0.022*"risk" + '
+  '0.022*"warranty" + 0.020*"representation"'),
+ (4,
+  '0.138*"user" + 0.099*"process" + 0.098*"provision" + 0.093*"disclose" + '
+  '0.089*"responsible" + 0.078*"ensure" + 0.072*"notification" + '
+  '0.070*"contract" + 0.043*"mail" + 0.039*"solely"'),
+ (5,
+  '0.366*"datum" + 0.146*"include" + 0.067*"require" + 0.052*"collect" + '
+  '0.042*"limitation" + 0.035*"message" + 0.031*"database" + 0.031*"sole" + '
+  '0.025*"order" + 0.024*"court"'),
+ (6,
+  '0.135*"right" + 0.106*"post" + 0.100*"request" + 0.078*"send" + '
+  '0.065*"material" + 0.055*"jurisdiction" + 0.043*"relate" + 0.041*"link" + '
+  '0.039*"guarantee" + 0.038*"behalf"'),
+ (7,
+  '0.023*"law" + 0.018*"account" + 0.016*"resume" + 0.015*"access" + '
+  '0.011*"term" + 0.010*"seeker" + 0.010*"advertisement" + 0.009*"arbitration" '
+  '+ 0.008*"pay" + 0.008*"dispute"'),
+ (8,
+  '0.246*"personal" + 0.095*"contact" + 0.065*"product" + 0.050*"legal" + '
+  '0.048*"bind" + 0.046*"specific" + 0.038*"expressly" + 0.035*"authority" + '
+  '0.034*"additional" + 0.032*"telephone"')]
+
+Perplexity:  -7.617819796794568
+
+Coherence Score:  0.7758220485925357
+
+2000-2005
+​
+[(0,
+  '0.180*"include" + 0.083*"liability" + 0.077*"limitation" + '
+  '0.072*"additional" + 0.068*"right" + 0.066*"collect" + 0.047*"trademark" + '
+  '0.027*"permit" + 0.022*"principle" + 0.021*"internet"'),
+ (1,
+  '0.242*"link" + 0.079*"recruiter" + 0.073*"control" + 0.052*"court" + '
+  '0.036*"continue" + 0.028*"delete" + 0.025*"modify" + 0.024*"order" + '
+  '0.023*"generally" + 0.018*"feature"'),
+ (2,
+  '0.276*"term" + 0.160*"post" + 0.096*"resum" + 0.065*"registration" + '
+  '0.033*"practice" + 0.028*"name" + 0.027*"offer" + 0.020*"individual" + '
+  '0.019*"receive" + 0.018*"search"'),
+ (3,
+  '0.108*"service" + 0.083*"respect" + 0.076*"update" + 0.063*"disclose" + '
+  '0.052*"provision" + 0.043*"company" + 0.041*"form" + 0.032*"send" + '
+  '0.029*"proceed" + 0.023*"server"'),
+ (4,
+  '0.264*"party" + 0.128*"provide" + 0.050*"require" + 0.044*"notice" + '
+  '0.042*"employee" + 0.034*"address" + 0.026*"reasonable" + 0.022*"credit" + '
+  '0.021*"operate" + 0.020*"disclosure"'),
+ (5,
+  '0.200*"personal" + 0.075*"web" + 0.066*"legal" + 0.054*"consent" + '
+  '0.053*"datum" + 0.052*"business" + 0.038*"constitute" + 0.031*"partner" + '
+  '0.029*"register" + 0.029*"govern"'),
+ (6,
+  '0.140*"material" + 0.121*"access" + 0.071*"responsible" + 0.070*"action" + '
+  '0.057*"site" + 0.056*"applicable" + 0.027*"visit" + 0.026*"opportunity" + '
+  '0.023*"transmit" + 0.021*"portion"'),
+ (7,
+  '0.131*"policy" + 0.100*"purpose" + 0.063*"subject" + 0.062*"apply" + '
+  '0.060*"software" + 0.038*"contact" + 0.037*"change" + 0.032*"mail" + '
+  '0.032*"relate" + 0.030*"case"'),
+ (8,
+  '0.211*"law" + 0.083*"employer" + 0.082*"request" + 0.059*"confidential" + '
+  '0.044*"general" + 0.041*"entity" + 0.033*"cookie" + 0.031*"sale" + '
+  '0.027*"organization" + 0.025*"specific"')]
+
+Perplexity:  -12.01976188975873
+
+Coherence Score:  0.7797132726224841
+
+to 2000
+​
+[(0,
+  '0.458*"datum" + 0.101*"site" + 0.073*"purpose" + 0.073*"limit" + '
+  '0.050*"protect" + 0.039*"database" + 0.037*"change" + 0.031*"warranty" + '
+  '0.019*"question" + 0.015*"grant"'),
+ (1,
+  '0.262*"law" + 0.223*"party" + 0.090*"control" + 0.081*"contract" + '
+  '0.068*"connection" + 0.060*"state" + 0.041*"permit" + 0.039*"copyright" + '
+  '0.025*"individual" + 0.022*"sell"'),
+ (2,
+  '0.176*"contact" + 0.146*"receive" + 0.139*"specific" + 0.100*"product" + '
+  '0.092*"action" + 0.072*"responsible" + 0.036*"distribute" + '
+  '0.025*"expressly" + 0.021*"medium" + 0.019*"make"'),
+ (3,
+  '0.015*"share" + 0.012*"collect" + 0.012*"applicable" + 0.010*"resume" + '
+  '0.010*"provide" + 0.009*"profile" + 0.009*"process" + 0.009*"search" + '
+  '0.008*"setting" + 0.008*"activity"'),
+ (4,
+  '0.517*"service" + 0.167*"term" + 0.102*"policy" + 0.039*"employer" + '
+  '0.032*"update" + 0.021*"damage" + 0.020*"relevant" + 0.016*"website" + '
+  '0.012*"performance" + 0.009*"result"'),
+ (5,
+  '0.424*"include" + 0.170*"post" + 0.064*"extent" + 0.063*"network" + '
+  '0.046*"reserve" + 0.037*"trademark" + 0.024*"technical" + '
+  '0.021*"representation" + 0.018*"agree" + 0.011*"kind"'),
+ (6,
+  '0.281*"account" + 0.066*"consent" + 0.061*"liability" + 0.047*"store" + '
+  '0.046*"link" + 0.043*"material" + 0.043*"view" + 0.043*"permission" + '
+  '0.043*"software" + 0.035*"provider"'),
+ (7,
+  '0.192*"access" + 0.120*"user" + 0.116*"cookie" + 0.106*"notice" + '
+  '0.089*"address" + 0.059*"company" + 0.054*"event" + 0.037*"web" + '
+  '0.027*"form" + 0.025*"register"'),
+ (8,
+  '0.367*"personal" + 0.216*"right" + 0.073*"copy" + 0.068*"claim" + '
+  '0.043*"notification" + 0.041*"modify" + 0.035*"publish" + 0.026*"server" + '
+  '0.023*"hold" + 0.014*"prohibit"')]
+
+Perplexity:  -8.129697858575815
+
+Coherence Score:  0.757755953177361
+
+
+
+
