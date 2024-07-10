@@ -8,6 +8,18 @@ import { SimpleLayout } from '@/components/SimpleLayout'
 import { useState } from 'react';
 import db from "@/data/output.json"
 
+type DataEntry = {
+  [key: string]: number;
+};
+
+type YearData = DataEntry[];
+
+type DataObject = {
+  [year: string]: YearData[];
+};
+
+const data: DataObject = db;
+
 function convertData(dataArray: { [x: string]: number; }[]) {
   return dataArray.map((dataObj: { [x: string]: number; }) => {
     return Object.keys(dataObj).map(key => {
@@ -35,7 +47,7 @@ export default function Projects() {
       {years.map(y => <Button variant={y == year ? "primary" : "secondary"} className='m-2' key={y} onClick={() => setYear(y)}>{y}</Button>)}
       <h1>Topics:</h1>
       {topics.map((t, index) => <Button variant={index == topicIndex ? "primary" : "secondary"} className='m-2' key={index} onClick={() => setTopicIndex(index)}>{t}</Button>)}
-      <Barplot data={convertData(db[year][topicIndex])} width={800} height={600} />
+      <Barplot data={convertData(data[year][topicIndex])} width={800} height={600} />
       <Trendplot />
 
     </SimpleLayout>
